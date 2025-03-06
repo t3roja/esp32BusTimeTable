@@ -23,7 +23,7 @@ bool connection = false;
 
 // Wifi SSID and password
 const char* WIFI_SSD = "SSD";
-const char* WIFI_PASSWORD = "netinsalasana";
+const char* WIFI_PASSWORD = "PASSWORD";
 
 
 // hostname, pathname and query
